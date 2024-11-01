@@ -1,7 +1,4 @@
 # Rudraneel Bhattacharyya
-# Mini Project-24R14J
-# Used: Python, PIL, pdfgen, reportlab, Weather API
-
 
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
