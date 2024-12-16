@@ -19,6 +19,11 @@ git clone https://github.com/your-username/image-to-pdf-converter.git
 2. Navigate to the project directory and install any required dependencies.
 3. Run the program and provide the required input and output paths.
 
+Example Usage:
+```sh
+python image_to_pdf_converter.py
+```
+
 ## Future Enhancements
 This project is actively being developed, with potential upcoming features like:
 - Adding a graphical user interface (GUI) for even greater usability.
