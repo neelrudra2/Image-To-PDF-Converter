@@ -13,6 +13,9 @@ Image to pdf converter is an effortless program that helps user to change text b
 ## Getting Started
 To get started with the Image-to-PDF Converter, follow these steps:
 1. Clone the repository
+```sh
+git clone https://github.com/your-username/image-to-pdf-converter.git
+```
 2. Navigate to the project directory and install any required dependencies.
 3. Run the program and provide the required input and output paths.
 
